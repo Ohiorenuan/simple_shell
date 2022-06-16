@@ -1,4 +1,4 @@
-<h1 style="color: goldenrod;">SIMPLE SHELL</h1>
+<h1>SIMPLE SHELL</h1>
 
 <div><h2>Description</h2>
 <p>This Simple Shell project is a collaboration between <em>Akele Ohiorenuan</em> and <em>Abdullahi Abdulbasit</em> who are Software Engineers studying at  ALX school. This project consists of developing and making our own UNIX command interpreter (Shell).
@@ -71,8 +71,11 @@ pwd - Print the absolute pathname
 </div>
 </div>
 
-<div></div>
+<h2>Authors</h2>
+<div>
+Ohiorenuan Akele <br> <ohioakele@gmail.com> <br> <img src="" alt="Ohio" style="width: 30px; height: 30px">
+Abdullahi Abdulbasit <br> <bibhestee@gmail.com> <br> <img src="" alt="Abdulbasit" style="width:30px; height: 30px; "></div>
 
-<div></div>
 
-<div></div>
+
+<h4> Thanks ... HAPPY!</h4>
