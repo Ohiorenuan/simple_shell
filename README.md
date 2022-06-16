@@ -2,7 +2,7 @@
 
 <div><h2>Description</h2>
 <p>This Simple Shell project is a collaboration between <em>Akele Ohiorenuan</em> and <em>Abdullahi Abdulbasit</em> who are Software Engineers studying at  ALX school. This project consists of developing and making our own UNIX command interpreter (Shell).
-This Simple_shell program can be compiled and launched from the command line, where its main function is to execute commands read from the standard input.
+<p>This Simple_shell program can be compiled and launched from the command line, where its main function is to execute commands read from the standard input.
 </div>
 <div><h2>Resources</h2><div><ul>
 <li> <a href="https://en.wikipedia.org/wiki/Unix_shell">UNIX SHELL</a>
@@ -62,7 +62,14 @@ This Simple_shell program can be compiled and launched from the command line, wh
 <li>wait4 (man 2 wait4)
 <li>write (man 2 write)</ul></div>
 
-<div></div>
+<div><h2>Commands on shell process</h2>
+<div>
+cd - Change directory
+env - List the current enviroment variables
+exit - exit the shell
+pwd - Print the absolute pathname
+</div>
+</div>
 
 <div></div>
 
