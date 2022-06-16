@@ -9,20 +9,20 @@
 <li> <a href="https://www.guru99.com/introduction-to-shell-scripting.html&ved=2ahUKEwid4a3E97L4AhVFSxoKHZIzBSMQo7QBegQICRAB&usg=AOvVaw2dgknJpebgfp6Py2iUlCsM">Guru99 Simple Shell scripting</a>
 </ul></div>
 
-<div><h4>Requirements</h4>
-<p>
-- Allowed editors: vi, vim, emacs
-- All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
-- All your files should end with a new line
-- A README.md file, at the root of the folder of the project is mandatory
-- Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
-- Your shell should not have any memory leaks
-- No more than 5 functions per file
-- All your header files should be include guarded
-- Use system calls only when you need to (why?)
-- Write a README with the description of your project
-- You should have an AUTHORS file at the root of your repository, listing all individuals having contributed content to the repository. Format, see Docker</div>
-</p>
+<div><h2>Requirements</h2>
+<p><ol>
+<li> Allowed editors: vi, vim, emacs
+<li> All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
+<li> All your files should end with a new line
+<li> A README.md file, at the root of the folder of the project is mandatory
+<li> Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
+<li> Your shell should not have any memory leaks
+<li> No more than 5 functions per file
+<li> All your header files should be include guarded
+<li> Use system calls only when you need to (why?)
+<li> Write a README with the description of your project
+<li> You should have an AUTHORS file at the root of your repository, listing all individuals having contributed content to the repository. Format, see Docker</div>
+<ol></p>
 
 <div>
 List of allowed functions and system calls
