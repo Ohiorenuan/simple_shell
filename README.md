@@ -1,6 +1,9 @@
 <h1>SIMPLE SHELL</h1>
 
-
+<div><h2>Description</h2>
+<p>This Simple Shell project is a collaboration between <em>Akele Ohiorenuan</em> and <em>Abdullahi Abdulbasit</em> who are Software Engineers studying at  ALX school. This project consists of developing and making our own UNIX command interpreter (Shell).
+This Simple_shell program can be compiled and launched from the command line, where its main function is to execute commands read from the standard input.
+</div>
 <div><h2>Resources</h2><ul>
 <li> <a href="https://en.wikipedia.org/wiki/Unix_shell">UNIX SHELL</a>
 <li> <a href="https://en.wikipedia.org/wiki/Thompson_shell">Thompson Shell</a>
@@ -22,7 +25,7 @@
 <li> Use system calls only when you need to (why?)
 <li> Write a README with the description of your project
 <li> You should have an AUTHORS file at the root of your repository, listing all individuals having contributed content to the repository. Format, see Docker</div>
-<ol></p>
+<ol></p></div>
 
 <div>
 <h2>List of allowed functions and system calls</h2>
