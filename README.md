@@ -1,4 +1,4 @@
-<h1>SIMPLE SHELL</h1>
+<h1>SIMPLE SHELL PROJECT</h1>
 
 <div><h2>Description</h2>
 <p>This Simple Shell project is a collaboration between <em>Akele Ohiorenuan</em> and <em>Abdullahi Abdulbasit</em> who are Software Engineers studying at  ALX school. 
@@ -31,7 +31,7 @@
 
 <div><h2>List of allowed functions and system calls</h2>
 <ul>
-<li>access (man 2 access)
+<li> access (man 2 access)
 <li>chdir (man 2 chdir)
 <li>close (man 2 close)
 <li>closedir (man 3 closedir)
@@ -75,9 +75,9 @@
 
 <h2>Authors</h2>
 <div>
-Ohiorenuan Akele <br> <ohioakele@gmail.com> <br> <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Ohio" style="width: 30px; height: 30px; align: right"> <hr>
+Akele Ohiorenuan <br> <ohioakele@gmail.com> <br> <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Ohio" style="width: 30px; height: 30px; align: right"> <hr>
 Abdullahi Abdulbasit <br> <bibhestee@gmail.com> <br> <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Abdulbasit" style="width:30px; height: 30px; align: right; "></div>
 
 
 
-<h4> Thanks ... HAPPY!</h4>
+<p> Thanks ... Happy Coding!</p>
