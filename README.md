@@ -75,8 +75,8 @@
 
 <h2>Authors</h2>
 <div>
-Ohiorenuan Akele <br> <ohioakele@gmail.com> <br> <img src="" alt="Ohio" style="width: 30px; height: 30px; align: right"> <hr>
-Abdullahi Abdulbasit <br> <bibhestee@gmail.com> <br> <img src="" alt="Abdulbasit" style="width:30px; height: 30px; align: right; "></div>
+Ohiorenuan Akele <br> <ohioakele@gmail.com> <br> <img src="https://www.shutterstock.com/image-vector/man-silhouette-profile-picture-vector-illustration-221431039" alt="Ohio" style="width: 30px; height: 30px; align: right"> <hr>
+Abdullahi Abdulbasit <br> <bibhestee@gmail.com> <br> <img src="https://www.shutterstock.com/image-vector/man-silhouette-profile-picture-vector-illustration-221431039" alt="Abdulbasit" style="width:30px; height: 30px; align: right; "></div>
 
 
 
