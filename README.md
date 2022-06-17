@@ -2,7 +2,7 @@
 
 <div><h2>Description</h2>
 <p>This Simple Shell project is a collaboration between <em>Akele Ohiorenuan</em> and <em>Abdullahi Abdulbasit</em> who are Software Engineers studying at  ALX school. 
-<p>This project consists of developing and making our own UNIX command interpreter (Shell).
+<p>This projet consists of developing and making our own UNIX command interpreter (Shell).
 <p>This Simple_shell program can be compiled and launched from the command line, where its main function is to execute commands read from the standard input.
 </div>
 <div><h2>Resources</h2><div><ul>
